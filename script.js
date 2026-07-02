@@ -1,7 +1,7 @@
 const myQuotes = [
-    { quote: "Im a beamerboy", author: "RAX" },
-    { quote: "uuuhhhh uhhmmm uhhhh uhhmmm i forgor...", author: "" },
-    { quote: "i want sprite :(", author: "RAX" }
+    { quote: "test 1", author: "nixonic" },
+    { quote: "test 2", author: "nia" },
+    { quote: "test 3", author: "3k3k3" }
 ];
 
 // --- END: YOUR CUSTOM QUOTES ---
@@ -385,7 +385,7 @@ function typeWriterStart() {
 }
     typeWriterStart();
 
-    const name = "RAX";
+    const name = "nixonic";
     let nameText = '';
     let nameIndex = 0;
     let isNameDeleting = false;
